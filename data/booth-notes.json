@@ -1,0 +1,590 @@
+{
+  "about": "Everything from the Allied Practice Expo booth (Toronto, 2026-09-14 and 2026-09-15) other than the badge scans. Cards were typed up by Erin from the originals; voice notes are the phone's automatic transcripts of Owen's recordings; Owen's list is copied as he typed it.",
+  "cards": [
+    {
+      "card_id": "C01",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Farah Nazari",
+      "title": "Clinic Manager",
+      "clinic": "Westdale Massage",
+      "email": "farah@westdalemassage.example.ca",
+      "phone": "289-555-0128",
+      "back_of_card": "TRIAL - 2 RMTs first"
+    },
+    {
+      "card_id": "C02",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Warren Hebert",
+      "title": "Owner",
+      "clinic": "Clearwater Massage Therapy",
+      "email": "warren.hebert@clearwatermassage.example.ca",
+      "phone": "(902) 555-0187",
+      "back_of_card": "paper book"
+    },
+    {
+      "card_id": "C03",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Dr. Stephen Lau, DC",
+      "title": "Clinical Director",
+      "clinic": "Grandview Health Collective",
+      "email": "slau@grandviewhealth.example.ca",
+      "phone": "519-555-0164 x2",
+      "back_of_card": "5 sites, pracshift, demo asap"
+    },
+    {
+      "card_id": "C04",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Caroline Power",
+      "title": "Clinic Manager",
+      "clinic": "Spruce Sports Physio",
+      "email": "caroline.power@sprucephysio.example.com",
+      "phone": "902-555-0152",
+      "back_of_card": "excel, send brochure"
+    },
+    {
+      "card_id": "C05",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Freya MacLean",
+      "title": "Front Desk Lead",
+      "clinic": "Bellwood Health Collective",
+      "email": "frontdesk@bellwoodhealth.example.ca",
+      "phone": "(519) 555-0156",
+      "back_of_card": "on pracshift"
+    },
+    {
+      "card_id": "C06",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Tyler Brennan, PT",
+      "title": "Partner",
+      "clinic": "Brennan & Ward Physiotherapy",
+      "email": "tyler@brennanward.example.ca",
+      "phone": "905-555-0150",
+      "back_of_card": "pricing in writing for partner. bookstead. 2 locs"
+    },
+    {
+      "card_id": "C07",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "V. Ward",
+      "title": "Front Desk Lead",
+      "clinic": "Northshore Sports Physio",
+      "email": "frontdesk@northshorephysio.example.ca",
+      "phone": "905-555-0186",
+      "back_of_card": "sheets"
+    },
+    {
+      "card_id": "C08",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Raj Menon, PT",
+      "title": "Owner",
+      "clinic": "Menon Physiotherapy",
+      "email": "rajmenon.pt@example.com",
+      "phone": "905 555 0119",
+      "back_of_card": "6 physios, all on one spreadsheet"
+    },
+    {
+      "card_id": "C09",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Heather Bouchard",
+      "title": "RMT",
+      "clinic": "Whitecap Therapeutic Massage",
+      "email": "heather.bouchard@whitecapmassage.example.ca",
+      "phone": "(416) 555-0104",
+      "back_of_card": "evening slots!!, prac shift"
+    },
+    {
+      "card_id": "C10",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Jasmine Beaton, PT",
+      "title": "Owner, Physiotherapist",
+      "clinic": "Tamarack Physio & Rehab",
+      "email": "jasmine@tamarackphysio.example.ca",
+      "phone": "(902) 555-0135",
+      "back_of_card": "paper, send one pager"
+    },
+    {
+      "card_id": "C11",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "A. MacDonald, RMT",
+      "title": "RMT",
+      "clinic": "Wildrose Therapeutic Massage",
+      "email": "info@wildrosemassage.example.com",
+      "phone": "514.555.0148",
+      "back_of_card": "excel"
+    },
+    {
+      "card_id": "C12",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Tara Mendes",
+      "title": "Owner, Physiotherapist",
+      "clinic": "Maple Ridge Physio & Rehab",
+      "email": "tara@mapleridgephysio.example.com",
+      "phone": "416 555 0107",
+      "back_of_card": "google calendar, send info"
+    },
+    {
+      "card_id": "C13",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Yvonne Clarke, PT",
+      "title": "Owner",
+      "clinic": "Clarke Physiotherapy",
+      "email": "yvonne@clarkephysio.example.ca",
+      "phone": "506-555-0134",
+      "back_of_card": "demo! sick of the phone"
+    },
+    {
+      "card_id": "C14",
+      "typed_on": "2026-09-22",
+      "collected_by": "Owen",
+      "name": "Emeka Patel",
+      "title": "Practice Manager",
+      "clinic": "Westbrook Health Collective",
+      "email": "info@westbrookhealth.example.ca",
+      "phone": "709 555 0186",
+      "back_of_card": "maybe next yr"
+    },
+    {
+      "card_id": "C15",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Elise Campbell",
+      "title": "RMT",
+      "clinic": "Glenview Massage Therapy",
+      "email": "ecampbell@glenviewmassage.example.com",
+      "phone": "506-555-0106",
+      "back_of_card": "intake forms before 1st visit, clinivo"
+    },
+    {
+      "card_id": "C16",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Marisol Vega",
+      "title": "Front Desk Lead",
+      "clinic": "Lakeshore Physiotherapy",
+      "email": "mvega@lakeshorephysio.example.ca",
+      "phone": "905-555-0172",
+      "back_of_card": "owner = Dr Feng. 2 locs clinivo"
+    },
+    {
+      "card_id": "C17",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Trina Keating",
+      "title": "Clinic Manager",
+      "clinic": "Saltbox Physio & Rehab",
+      "email": "trina.keating@saltboxphysio.example.ca",
+      "phone": "905-555-0121",
+      "back_of_card": "import from bookstead?, send info"
+    },
+    {
+      "card_id": "C18",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Dr. J. MacIsaac, DPT",
+      "title": "Clinic Director",
+      "clinic": "Bayview Physio",
+      "email": "jen@bayviewphysio.example.ca",
+      "phone": "(506) 555-0181",
+      "back_of_card": "3 sites, bookstead"
+    },
+    {
+      "card_id": "C19",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Jordan Gillis",
+      "title": "Clinic Manager",
+      "clinic": "Cedar Physio",
+      "email": "jgillis@cedarphysio.example.com",
+      "phone": "902.555.0184",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C20",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Mei Lin Zhou, R.Ac, RMT",
+      "title": "Owner",
+      "clinic": "Zhou Acupuncture & Massage",
+      "email": "meilin@zhouacupuncture.example.ca",
+      "phone": "905-555-0189",
+      "back_of_card": "clinivo. mandarin reminders?"
+    },
+    {
+      "card_id": "C21",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Ines Kaur",
+      "title": "Clinic Manager",
+      "clinic": "Redcliff Sports Physio",
+      "email": "ines@redcliffphysio.example.ca",
+      "phone": "519-555-0171",
+      "back_of_card": "txt reminders cost extra on bookstead"
+    },
+    {
+      "card_id": "C22",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "V. Roy",
+      "title": "Practice Manager",
+      "clinic": "Orchard Physiotherapy",
+      "email": "vincent.roy@orcahrdphysio.example.com",
+      "phone": "506-555-0102",
+      "back_of_card": "maybe next yr"
+    },
+    {
+      "card_id": "C23",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "N. Chen",
+      "title": "Practice Manager",
+      "clinic": "Elmwood Physiotherapy",
+      "email": "natalie@elmwoodphysio.example.com",
+      "phone": "(902) 555-0194",
+      "back_of_card": "rota + bookings separate, google cal, 2 sites"
+    },
+    {
+      "card_id": "C24",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Margaret O'Brien",
+      "title": "Office Manager",
+      "clinic": "Riverside Massage Therapy",
+      "email": "mobrien@riversidemassage.example.ca",
+      "phone": "506-555-0152",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C25",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Aisha Novak",
+      "title": "Front Desk Lead",
+      "clinic": "Bluewater Physio & Rehab",
+      "email": "aisha@bluewaterphysio.example.ca",
+      "phone": "705 555 0158",
+      "back_of_card": "paper, send info"
+    },
+    {
+      "card_id": "C26",
+      "typed_on": "2026-09-24",
+      "collected_by": "Owen",
+      "name": "Usha Goguen",
+      "title": "Regional Manager",
+      "clinic": "Brookside Physio & Rehab",
+      "email": "ugoguen@brooksidephysio.example.ca",
+      "phone": "(519) 555-0130",
+      "back_of_card": "evening slots!!, clinivo user"
+    },
+    {
+      "card_id": "C27",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Colin MacIsaac, RMT",
+      "title": "Owner",
+      "clinic": "Glenhaven Massage Therapy",
+      "email": "colin@glenhavenmassage.example.ca",
+      "phone": "902 555 0147",
+      "back_of_card": "paper book, 4 RMTs, lovely guy"
+    },
+    {
+      "card_id": "C28",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Dr. Stephen Lau, DC",
+      "title": "Clinical Director",
+      "clinic": "Grandview Health Collective",
+      "email": "slau@grandviewhealth.example.ca",
+      "phone": "519-555-0164 x2",
+      "back_of_card": "bow tie guy - already talked to Owen"
+    },
+    {
+      "card_id": "C29",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Gabriel Singh",
+      "title": "Front Desk Lead",
+      "clinic": "Birchwood Physio & Rehab",
+      "email": "gsingh@birhcwoodphysio.example.ca",
+      "phone": "705-555-0173",
+      "back_of_card": "txt reminders cost extra on clinivo"
+    },
+    {
+      "card_id": "C30",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Vanessa Mercer",
+      "title": "Practice Manager",
+      "clinic": "Evergreen Rehab Centre",
+      "email": "vanessa.mercer@evergreenhealth.example.com",
+      "phone": "905-555-0122",
+      "back_of_card": "~8 no-shows/wk, send info, 5 sites"
+    },
+    {
+      "card_id": "C31",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "S. Rossi",
+      "title": "Front Desk Lead",
+      "clinic": "Coastline Sports Physio",
+      "email": "srossi@coastlinephysio.example.ca",
+      "phone": "613 555 0116",
+      "back_of_card": "paper!"
+    },
+    {
+      "card_id": "C32",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Ines Kaur",
+      "title": "Clinic Manager",
+      "clinic": "Redcliff Sports Physio",
+      "email": "ines@redcliffphysio.example.ca",
+      "phone": "519-555-0171",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C33",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Hélène Arsenault, pht",
+      "title": "Physiothérapeute / Propriétaire",
+      "clinic": "Physio Côte-Est",
+      "email": "helene@physiocoteest.example.ca",
+      "phone": "506.555.0123",
+      "back_of_card": "Clinivo - renouvellement fin d'année - appeler après l'Action de grâce"
+    },
+    {
+      "card_id": "C34",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Dmitri Nguyen",
+      "title": "Clinic Manager",
+      "clinic": "Thornbury Physio",
+      "email": "dnguyen@thornburyphysio.example.ca",
+      "phone": "705 555 0150",
+      "back_of_card": ""
+    },
+    {
+      "card_id": "C35",
+      "typed_on": "2026-10-06",
+      "collected_by": "Nadia",
+      "name": "Lucie Gaudet, RMT",
+      "title": "Propriétaire",
+      "clinic": "Gaudet Massage & Wellness",
+      "email": "lucie@gaudetmassage.example.ca",
+      "phone": "506-555-0115",
+      "back_of_card": ""
+    }
+  ],
+  "voice_notes": [
+    {
+      "note_id": "V01",
+      "recorded_at": "2026-09-14 09:55",
+      "length_seconds": 27,
+      "transcript": "okay first real one. derek oh say from pinnacle rehab, mississauga, six clinics, six. every clinic runs off its own google calendar and then somebody at head office copies it all into a master spreadsheet every friday. he's the ops guy not the owner. wants the security one pager for their IT person before anything else. good guy. big."
+    },
+    {
+      "note_id": "V02",
+      "recorded_at": "2026-09-14 10:48",
+      "length_seconds": 17,
+      "transcript": "sophie trembly, gatineau, massage, just her and two others I think. she's on pract shift and they started charging her per text reminder this summer and she's pretty mad about it. didn't ask for anything really. french speaker, nadia should maybe write to her."
+    },
+    {
+      "note_id": "V03",
+      "recorded_at": "2026-09-14 11:36",
+      "length_seconds": 29,
+      "transcript": "jen from bayview, the three clinics in moncton, she's on book stead and book stead double booked her saturday RMTs twice in august, she was really fired up about that. she wants a demo with her clinic managers. and her business partner ravi was with her, he's the numbers guy, he wants pricing per practitioner, they've got fourteen practitioners across the three. both of them. hot."
+    },
+    {
+      "note_id": "V04",
+      "recorded_at": "2026-09-14 12:09",
+      "length_seconds": 22,
+      "transcript": "gord potty, pottie maybe, sports physio up in sydney nova scotia. one clinic, paper book. his one front desk person is drowning in phone bookings, she does everything. he wants a trial for her, not a demo, he said just let her play with it. I said we'd set that up."
+    },
+    {
+      "note_id": "V05",
+      "recorded_at": "2026-09-14 13:06",
+      "length_seconds": 20,
+      "transcript": "amira, still waters massage in halifax. three RMTs on one shared google calendar and they keep overwriting each other's bookings. she wants pricing. and she was really clear, do not put her on any mailing list, she hates newsletters, just send her the pricing. so, pricing only. she didn't give me a card, I scanned her."
+    },
+    {
+      "note_id": "V06",
+      "recorded_at": "2026-09-14 13:41",
+      "length_seconds": 23,
+      "transcript": "grace, whitford, the lady with all the dog photos on her phone. two massage clinics in ottawa. pract shift keeps logging her RMTs out in the middle of the day. she's not shopping yet but she's annoyed. oh and her dad's in hospital in kingston so she's a bit all over the place, don't, you know, don't bring that up."
+    },
+    {
+      "note_id": "V07",
+      "recorded_at": "2026-09-14 14:30",
+      "length_seconds": 17,
+      "transcript": "nadia just told me about one she had in french, a physio from shediac, ellen or helen arsenault, on clean evo, her contract renews at the end of the year and nadia told her we'd call her after thanksgiving. nadia has her card. putting it here so we don't lose it."
+    },
+    {
+      "note_id": "V08",
+      "recorded_at": "2026-09-14 15:12",
+      "length_seconds": 14,
+      "transcript": "duncan ferris, charlottetown, physio, one clinic, on clinivo. what he really wants is for clients to grab the last minute cancellation slots online instead of his front desk phoning down a list. nice chat. didn't ask for anything."
+    },
+    {
+      "note_id": "V09",
+      "recorded_at": "2026-09-14 15:55",
+      "length_seconds": 14,
+      "transcript": "liam, the RMT from fredericton, the tall guy. paper book, solo. nice guy, not ready, he said maybe next year. nothing to send really."
+    },
+    {
+      "note_id": "V10",
+      "recorded_at": "2026-09-14 16:26",
+      "length_seconds": 14,
+      "transcript": "peggy from riverside massage, fredericton too. office manager. she wants something she can show the owner, so send her the brochure or the one pager. she's not the decision maker."
+    },
+    {
+      "note_id": "V11",
+      "recorded_at": "2026-09-15 09:22",
+      "length_seconds": 23,
+      "transcript": "okay day two. steve from grandview, five sites, kitchener waterloo. on pract shift. his renewal is at the end of the year and he wants to compare before then, so demo asap. he's the guy with the bow tie. he said he'll bring his ops lead."
+    },
+    {
+      "note_id": "V12",
+      "recorded_at": "2026-09-15 09:57",
+      "length_seconds": 19,
+      "transcript": "shauna from st john's, seawall massage. one clinic now, second location opening in mount pearl in october. paper book at the moment. she said call me once the new place is open, not before, she's slammed."
+    },
+    {
+      "note_id": "V13",
+      "recorded_at": "2026-09-15 10:41",
+      "length_seconds": 14,
+      "transcript": "dan pothier, atlantic motion, three clinics, halifax and bedford, on clinivo and he hates the reporting, he can't get a number out of it. wants a demo. good one."
+    },
+    {
+      "note_id": "V14",
+      "recorded_at": "2026-09-15 11:27",
+      "length_seconds": 19,
+      "transcript": "patrick from bathurst, doucet physio, he went to dal with sam, small world. he ditched book stead in april and he's running the whole clinic off a spreadsheet now. wants a demo but not till he's back from vacation, he's back on the fifth."
+    },
+    {
+      "note_id": "V15",
+      "recorded_at": "2026-09-15 12:02",
+      "length_seconds": 16,
+      "transcript": "correction on jen from bayview from yesterday, she came back by, she said monday the twenty eighth works for the demo, mornings, and to copy her ops manager. so demo with managers, week of the twenty eighth."
+    },
+    {
+      "note_id": "V16",
+      "recorded_at": "2026-09-15 12:31",
+      "length_seconds": 15,
+      "transcript": "yvonne, saint john, one clinic, paper. but she literally said book me a demo. she's sick of answering the phone all day. one clinic but she means it."
+    },
+    {
+      "note_id": "V17",
+      "recorded_at": "2026-09-15 13:09",
+      "length_seconds": 14,
+      "transcript": "scanner's still dead. farah from westdale massage in hamilton, google calendar, she wants to try it with her two RMTs first before she shows anyone. so set her up with a trial. got her card."
+    },
+    {
+      "note_id": "V18",
+      "recorded_at": "2026-09-15 13:44",
+      "length_seconds": 17,
+      "transcript": "tyler brennan, brennan and ward, two clinics, oakville, on book stead. wants pricing but in writing, his business partner won't look at anything that isn't in writing. got his card, scanner's down."
+    },
+    {
+      "note_id": "V19",
+      "recorded_at": "2026-09-15 14:20",
+      "length_seconds": 14,
+      "transcript": "mei lin from markham, acupuncture and massage, one clinic, on clinivo. wants a demo. asked whether reminders can go out in mandarin, a lot of her clients would want that. I said I'd check."
+    },
+    {
+      "note_id": "V20",
+      "recorded_at": "2026-09-15 15:01",
+      "length_seconds": 14,
+      "transcript": "ben from northline, four clinics in ottawa, every front desk still uses a paper book, can you believe it. he's the manager not the owner. send him something he can take to the owner."
+    },
+    {
+      "note_id": "V21",
+      "recorded_at": "2026-09-15 15:31",
+      "length_seconds": 14,
+      "transcript": "lucie from dieppe, massage, paper, we mostly talked about her kids' hockey. nothing there really. nadia has her card."
+    },
+    {
+      "note_id": "V22",
+      "recorded_at": "2026-09-15 16:08",
+      "length_seconds": 16,
+      "transcript": "okay wrap up. talked to a lot of people. scanner died for about an hour after lunch today so the cards from then are in my bag. nadia has some cards too. I'll do a list on the plane."
+    }
+  ],
+  "owen_list": {
+    "written": "2026-09-15 21:40, on the flight home",
+    "title": "show notes - flight home",
+    "lines": [
+      {
+        "line_id": "L01",
+        "text": "Dr. MacIsaac - wants demo, managers too"
+      },
+      {
+        "line_id": "L02",
+        "text": "Steve L / Grandview - 5 sites!! pracshift. demo asap"
+      },
+      {
+        "line_id": "L03",
+        "text": "Derek - Pinnacle - SIX clinics - top priority. send security doc for IT"
+      },
+      {
+        "line_id": "L04",
+        "text": "Gord (Sydney) - trial for front desk"
+      },
+      {
+        "line_id": "L05",
+        "text": "Ben Northline - 4 clinics all on paper - easy win"
+      },
+      {
+        "line_id": "L06",
+        "text": "Jen from Bayview - bookstead, sat double bookings. NEEDS us"
+      },
+      {
+        "line_id": "L07",
+        "text": "Kiran - Kinetic Edge - pricing"
+      },
+      {
+        "line_id": "L08",
+        "text": "ottawa massage lady w the dog pics - 2 clinics"
+      },
+      {
+        "line_id": "L09",
+        "text": "Peggy Riverside - send stuff for owner"
+      },
+      {
+        "line_id": "L10",
+        "text": "Marisol Lakeshore - demo but owner has to be there"
+      },
+      {
+        "line_id": "L11",
+        "text": "fredericton RMT guy - paper. nice"
+      },
+      {
+        "line_id": "L12",
+        "text": "Shauna St Johns - call when new place opens"
+      },
+      {
+        "line_id": "L13",
+        "text": "Dave? Dan? big halifax group - 3 sites - clinivo - demo"
+      },
+      {
+        "line_id": "L14",
+        "text": "Raj Menon - pricing + trial?"
+      },
+      {
+        "line_id": "L15",
+        "text": "guy who knew Sam - bookstead refugee"
+      }
+    ]
+  }
+}

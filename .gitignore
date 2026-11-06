@@ -1,0 +1,10 @@
+.env
+.venv/
+.cache/
+out/
+stress/
+shows/
+.DS_Store
+.vscode/
+__pycache__/
+do-not-email.toronto-backup.csv

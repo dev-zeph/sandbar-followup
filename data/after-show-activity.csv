@@ -1,0 +1,73 @@
+event_id,date_time,event,channel,name,email,clinic,detail
+A001,2026-09-21 11:02,demo booked,demo booking page,Rosalind Kerr,rkerr@tidepoolphysio.example.ca,Tidepool Physio,Demo booked for 2026-10-13 13:00 (30 min). How did you hear about us: Google search
+A002,2026-09-24 09:40,email sent,hello@ inbox,Elliot Grant,elliot@carrawayhealth.example.ca,Carraway Rehab Centre,Great to meet you at the Allied Practice Expo!
+A003,2026-09-24 09:46,email sent,hello@ inbox,V. Ward,frontdesk@northshorephysio.example.ca,Northshore Sports Physio,Great to meet you at the Allied Practice Expo!
+A004,2026-09-24 09:48,email sent,hello@ inbox,Warren Hebert,warren.hebert@clearwatermassage.example.ca,Clearwater Massage Therapy,Great to meet you at the Allied Practice Expo!
+A005,2026-09-24 09:54,email sent,hello@ inbox,Rebecca Morrison,rebecca.morrison@granitemassage.example.com,Granite Massage Clinic,Great to meet you at the Allied Practice Expo!
+A006,2026-09-24 09:56,email sent,hello@ inbox,Louis Kim,louis@kingswaymassage.example.ca,Kingsway Massage Therapy,Great to meet you at the Allied Practice Expo!
+A007,2026-09-24 09:59,email sent,hello@ inbox,Jordan Gillis,jgillis@cedarphysio.example.com,Cedar Physio,Great to meet you at the Allied Practice Expo!
+A008,2026-09-24 10:04,email sent,hello@ inbox,Melanie Hachey,melanie@riverbendphysio.example.ca,Riverbend Sports Physio,Great to meet you at the Allied Practice Expo!
+A009,2026-09-24 10:07,email sent,hello@ inbox,Ian Okafor,iokafor@ridgewayphysio.example.ca,Ridgeway Physio & Rehab,Great to meet you at the Allied Practice Expo!
+A010,2026-09-24 10:12,email sent,hello@ inbox,"Raj Menon, PT",rajmenon.pt@example.com,Menon Physiotherapy,Great to meet you at the Allied Practice Expo!
+A011,2026-09-24 10:14,email sent,hello@ inbox,Trina Keating,trina.keating@saltboxphysio.example.ca,Saltbox Physio & Rehab,Great to meet you at the Allied Practice Expo!
+A012,2026-09-24 10:20,email sent,hello@ inbox,V. Roy,vincent.roy@orcahrdphysio.example.com,Orchard Physiotherapy,Great to meet you at the Allied Practice Expo!
+A013,2026-09-24 10:25,email sent,hello@ inbox,"Dr. J. MacIsaac, DPT",jen@bayviewphysio.example.ca,Bayview Physio,Great to meet you at the Allied Practice Expo!
+A014,2026-09-24 10:30,email sent,hello@ inbox,Marisol Vega,mvega@lakeshorephysio.example.ca,Lakeshore Physiotherapy,Great to meet you at the Allied Practice Expo!
+A015,2026-09-24 10:31,reply received,hello@ inbox,Elliot Grant,elliot@carrawayhealth.example.ca,Carraway Rehab Centre,Automatic reply: I am out of the clinic until 2026-10-05 with limited access to email.
+A016,2026-09-24 10:32,email sent,hello@ inbox,Chantal Chisholm,chantal.chisholm@ironwoodphysio.example.ca,Ironwood Physiotherapy,Great to meet you at the Allied Practice Expo!
+A017,2026-09-24 10:38,email sent,hello@ inbox,Tara Mendes,tara@mapleridgephysio.example.com,Maple Ridge Physio & Rehab,Great to meet you at the Allied Practice Expo!
+A018,2026-09-24 10:44,email sent,hello@ inbox,Zoe Tobin,ztobin@parkdalephysio.example.ca,Parkdale Physio,Great to meet you at the Allied Practice Expo!
+A019,2026-09-24 10:46,email sent,hello@ inbox,Hugo Murphy,hugo@silverleafphysio.example.ca,Silverleaf Physiotherapy,Great to meet you at the Allied Practice Expo!
+A020,2026-09-24 10:49,email sent,hello@ inbox,Trevor Lindqvist,trevor.lindqvist@bookstead.example.com,Bookstead,Great to meet you at the Allied Practice Expo!
+A021,2026-09-24 10:51,email sent,hello@ inbox,Darcy Young,darcy.young@tidegatephysio.example.ca,Tidegate Physio,Great to meet you at the Allied Practice Expo!
+A022,2026-09-24 10:56,email sent,hello@ inbox,Morgan Bishop,morgan.bishop@brightpathinsurance.example.com,BrightPath Insurance,Great to meet you at the Allied Practice Expo!
+A023,2026-09-24 11:58,email bounced,hello@ inbox,Mail Delivery Subsystem,vincent.roy@orcahrdphysio.example.com,,Delivery failed: address not found (vincent.roy@orcahrdphysio.example.com)
+A024,2026-09-24 14:37,trial started,trial sign-up form,Samir Haidari,samir@foothillsmassage.example.ca,Foothills Massage,Trial started (14 days). How did you hear about us: a friend
+A025,2026-09-26 08:05,reply received,hello@ inbox,Darcy Young,darcy.young@tidegatephysio.example.ca,Tidegate Physio,I only entered the espresso draw. Please take me off your list.
+A026,2026-09-27 19:22,reply received,hello@ inbox,Rajesh Menon,rajmenon.pt@example.com,Menon Physiotherapy,"Thanks Erin. Owen said he would send pricing for our 6 physios, could you send that over?"
+A027,2026-09-28 08:14,email sent,Owen's mailbox,Steve Lau,slau@grandviewhealth.example.ca,Grandview Health Collective,Grandview demo - a few times that work
+A028,2026-09-28 08:31,email sent,Owen's mailbox,Derek Osei,dosei@pinnaclerehab.example.com,Pinnacle Rehab Group,Pinnacle - the security one-pager for your IT team
+A029,2026-09-28 08:52,email sent,Owen's mailbox,Dr. MacIsaac,jennifer.macisaac@bayviewphysio.example.ca,Bayview Physiotherapy & Wellness,Dr. MacIsaac - demo for you and your managers
+A030,2026-09-28 09:47,reply received,Owen's mailbox,Steve Lau,slau@grandviewhealth.example.ca,Grandview Health Collective,"Let's do it. Booking a time now, I'll bring our ops lead."
+A031,2026-09-28 14:12,reply received,hello@ inbox,Hugo Murphy,hugo@silverleafphysio.example.ca,Silverleaf Physiotherapy,"Thanks for the note. We just signed another two years with Clinivo, so not for now."
+A032,2026-09-28 16:05,demo booked,demo booking page,Steve Lau,steve.lau@grandviewhealth.example.ca,Grandview Health,Demo booked for 2026-10-20 13:30 (45 min). How did you hear about us: Owen's email
+A033,2026-09-29 09:12,reply received,Owen's mailbox,Jennifer MacIsaac,jennifer.macisaac@bayviewphysio.example.ca,Bayview Physiotherapy & Wellness,"Ha, you've now written to me twice, once as Jen and once as Dr. MacIsaac! Yes, still keen. My front desk will book a time for me and two managers."
+A034,2026-09-29 10:15,demo booked,demo booking page,Corinne Abbott,corinne@bayviewphysio-referral.example.ca,Abbott Physiotherapy,Demo booked for 2026-10-20 13:00 (30 min). How did you hear about us: referral from Bayview Physio
+A035,2026-09-29 13:05,email sent,hello@ inbox,Steve Lau,steve.lau@grandviewhealth.example.ca,Grandview Health Collective,Great to meet you at the Allied Practice Expo!
+A036,2026-09-29 13:09,email sent,hello@ inbox,Mei Lin Zhou,meilin@zhouacupuncture.example.ca,Zhou Acupuncture & Massage,Great to meet you at the Allied Practice Expo!
+A037,2026-09-29 13:12,email sent,hello@ inbox,Monique Robichaud,mrobichaud@willowphysio.example.com,Willow Sports Physio,Great to meet you at the Allied Practice Expo!
+A038,2026-09-29 13:14,email sent,hello@ inbox,Kevin LeBlanc,kleblanc@quarrymassage.example.ca,Quarry Massage Clinic,Great to meet you at the Allied Practice Expo!
+A039,2026-09-29 13:16,email sent,hello@ inbox,Leah Pelletier,leah.pelletier@pinecrestmassage.example.ca,Pinecrest Massage Therapy,Great to meet you at the Allied Practice Expo!
+A040,2026-09-29 13:20,email sent,hello@ inbox,Sean Fitzgerald,sfitzgerald@hillcresthealth.example.ca,Hillcrest Wellness Centre,Great to meet you at the Allied Practice Expo!
+A041,2026-09-29 13:25,email sent,hello@ inbox,Bridget Ibrahim,bibrahim@foxglovephysio.example.ca,Foxglove Sports Physio,Great to meet you at the Allied Practice Expo!
+A042,2026-09-29 13:31,email sent,hello@ inbox,Hannah Steeves,hannah.steeves@meadowlarkphysio.example.ca,Meadowlark Physio,Great to meet you at the Allied Practice Expo!
+A043,2026-09-29 13:33,email sent,hello@ inbox,Dara Thibodeau,dara@cobaltmassage.example.ca,Cobalt Massage Therapy,Great to meet you at the Allied Practice Expo!
+A044,2026-09-29 13:35,email sent,hello@ inbox,Natalie Chen,natalie@elmwoodphysio.example.com,Elmwood Physiotherapy,Great to meet you at the Allied Practice Expo!
+A045,2026-09-29 13:40,email sent,hello@ inbox,Paige Sato,paige@dunmorehealth.example.com,Dunmore Health Collective,Great to meet you at the Allied Practice Expo!
+A046,2026-09-29 13:43,email sent,hello@ inbox,Victor Ward,victor.ward@northshorephysio.example.ca,Northshore Sports Physio,Great to meet you at the Allied Practice Expo!
+A047,2026-09-29 13:47,email sent,hello@ inbox,Kendra Rowe,kendra.rowe@pebblebeachmassage.example.ca,Pebble Beach Massage,Great to meet you at the Allied Practice Expo!
+A048,2026-09-29 13:53,email sent,hello@ inbox,Tomas Coady,tomas.coady@northgatecollege.example.ca,Northgate College,Great to meet you at the Allied Practice Expo!
+A049,2026-09-29 13:58,email bounced,hello@ inbox,Mail Delivery Subsystem,tomas.coady@northgatecollege.example.ca,,Delivery failed: mailbox unavailable (tomas.coady@northgatecollege.example.ca)
+A050,2026-09-29 16:40,email sent,Owen's mailbox,Gordon Pottie,gord@pottiesportsphysio.example.ca,Pottie Sports Physio,Trial account for your front desk
+A051,2026-09-29 17:02,email sent,Owen's mailbox,Marisol Vega,mvega@lakeshorephysio.example.ca,Lakeshore Physiotherapy,Lakeshore demo with Dr. Feng
+A052,2026-09-30 08:40,reply received,Owen's mailbox,Marisol Vega,mvega@lakeshorephysio.example.ca,Lakeshore Physiotherapy,"Thanks Owen, Dr. Feng will book a time himself this week."
+A053,2026-09-30 21:15,email sent,Owen's mailbox,Daniel Pothier,dpothier@atlanticmotion.example.ca,Atlantic Motion Physiotherapy,Atlantic Motion - demo times
+A054,2026-10-01 07:48,email sent,Owen's mailbox,Ben Kowalczyk,ben.k@northlinephysio.example.ca,Northline Physiotherapy,Northline - something for your owner
+A055,2026-10-01 10:03,reply received,hello@ inbox,Monique Robichaud,mrobichaud@willowphysio.example.com,Willow Sports Physio,Please remove me from your mailing list.
+A056,2026-10-01 10:20,demo booked,demo booking page,Front Desk,frontdesk@bayviewphysio.example.ca,Bayview Physio & Wellness,Demo booked for 2026-10-22 14:30 (45 min). Notes: for Jen MacIsaac + 2 clinic managers. How did you hear about us: Owen
+A057,2026-10-01 22:47,demo booked,demo booking page,Daniel Pothier,dpothier@atlanticmotion.example.ca,Atlantic Motion,Demo booked for 2026-10-22 13:00 (30 min). How did you hear about us: email
+A058,2026-10-02 07:55,demo booked,demo booking page,Dr. Alan Feng,afeng@lakeshorephysio.example.ca,Lakeshore Physio,Demo booked for 2026-10-22 12:30 (30 min). Notes: Marisol from our front desk will join. How did you hear about us: expo
+A059,2026-10-02 09:30,trial started,trial sign-up form,Front Desk,frontdesk@pottiesportsphysio.example.ca,Pottie Sports Physio,Trial started (14 days). How did you hear about us: Gord met you at the show
+A060,2026-10-02 11:26,reply received,Owen's mailbox,Ben Kowalczyk,ben.k@northlinephysio.example.ca,Northline Physiotherapy,"Thanks, I've passed this to our owner. Will let you know."
+A061,2026-10-02 12:20,email sent,Owen's mailbox,Rajesh Menon,rajesh@menonphysio.example.ca,Menon Physiotherapy,Pricing for Menon Physiotherapy
+A062,2026-10-04 16:50,trial started,trial sign-up form,Arjun Malhotra,arjun@lumenrehab.example.ca,Lumen Rehab,Trial started (14 days). How did you hear about us: review site
+A063,2026-10-05 13:05,trial started,trial sign-up form,Farah Nazari,fnazari@westdalemassage.example.ca,Westdale Massage,Trial started (14 days). How did you hear about us: Allied Practice Expo
+A064,2026-10-06 09:05,demo booked,demo booking page,Paula Strickland,pstrickland@coveside.example.ca,Coveside Massage,Demo booked for 2026-10-27 14:00 (30 min). How did you hear about us: conference
+A065,2026-10-07 15:32,demo booked,demo booking page,Pat Doucet,pat.doucet@example.com,Doucet Physio,Demo booked for 2026-10-28 15:00 (30 min). How did you hear about us: talked to Owen at the Toronto show
+A066,2026-10-08 12:44,demo booked,demo booking page,Trina Keating,trina.keating@saltboxphysio.example.ca,Saltbox Physio & Rehab,Demo booked for 2026-10-29 14:00 (30 min). How did you hear about us: your email after the expo
+A067,2026-10-08 19:20,trial started,trial sign-up form,Ethan Purcell,ethan@purcellphysio.example.ca,Purcell Physio,Trial started (14 days). How did you hear about us: Google
+A068,2026-10-09 21:41,trial started,trial sign-up form,Raj Menon,rajmenon.pt@example.com,Menon Physio,Trial started (14 days). How did you hear about us: Owen
+A069,2026-10-10 10:44,demo booked,demo booking page,Lynn Gosse,lynn.gosse@harbourfrontrehab.example.ca,Harbourfront Rehab,Demo booked for 2026-10-29 14:00 (30 min). How did you hear about us: Instagram
+A070,2026-10-13 09:18,demo booked,demo booking page,H. Bouchard,office@whitecapmassage.example.ca,Whitecap Therapeutic Massage,Demo booked for 2026-10-29 15:00 (30 min). How did you hear about us: saw your booth in Toronto
+A071,2026-10-14 08:58,demo booked,demo booking page,Shane Tibbo,shane@capelinephysio.example.ca,Capeline Physio,Demo booked for 2026-10-29 14:30 (30 min). How did you hear about us: a colleague
+A072,2026-10-14 13:12,trial started,trial sign-up form,Nora Vance,nora@ridgelinemassage.example.ca,Ridgeline Massage,Trial started (14 days). How did you hear about us: podcast
